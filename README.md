@@ -1,6 +1,6 @@
 # Number Converter
 
-Desktop Number Converting Application
+Desktop Number-Converting Application
 
 ## Description
 
